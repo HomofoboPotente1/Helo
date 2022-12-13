@@ -1,0 +1,15 @@
+/home/tecno.mossen/alumnat/A8/2/bin/Debug/net6.0/2
+/home/tecno.mossen/alumnat/A8/2/bin/Debug/net6.0/2.deps.json
+/home/tecno.mossen/alumnat/A8/2/bin/Debug/net6.0/2.runtimeconfig.json
+/home/tecno.mossen/alumnat/A8/2/bin/Debug/net6.0/2.dll
+/home/tecno.mossen/alumnat/A8/2/bin/Debug/net6.0/2.pdb
+/home/tecno.mossen/alumnat/A8/2/obj/Debug/net6.0/2.csproj.AssemblyReference.cache
+/home/tecno.mossen/alumnat/A8/2/obj/Debug/net6.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/home/tecno.mossen/alumnat/A8/2/obj/Debug/net6.0/2.AssemblyInfoInputs.cache
+/home/tecno.mossen/alumnat/A8/2/obj/Debug/net6.0/2.AssemblyInfo.cs
+/home/tecno.mossen/alumnat/A8/2/obj/Debug/net6.0/2.csproj.CoreCompileInputs.cache
+/home/tecno.mossen/alumnat/A8/2/obj/Debug/net6.0/2.dll
+/home/tecno.mossen/alumnat/A8/2/obj/Debug/net6.0/refint/2.dll
+/home/tecno.mossen/alumnat/A8/2/obj/Debug/net6.0/2.pdb
+/home/tecno.mossen/alumnat/A8/2/obj/Debug/net6.0/2.genruntimeconfig.cache
+/home/tecno.mossen/alumnat/A8/2/obj/Debug/net6.0/ref/2.dll
